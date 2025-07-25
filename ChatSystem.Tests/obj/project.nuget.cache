@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "qJtWNqhscY8=",
+  "dgSpecHash": "XYdkTQ2xEjg=",
   "success": true,
   "projectFilePath": "C:\\Users\\freim\\source\\repos\\SavannahApplicantsRepos\\ChatSystem.Tests\\ChatSystem.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\freim\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\freim\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512",
+    "C:\\Users\\freim\\.nuget\\packages\\coverlet.msbuild\\6.0.2\\coverlet.msbuild.6.0.2.nupkg.sha512",
     "C:\\Users\\freim\\.nuget\\packages\\microsoft.codecoverage\\17.12.0\\microsoft.codecoverage.17.12.0.nupkg.sha512",
     "C:\\Users\\freim\\.nuget\\packages\\microsoft.net.test.sdk\\17.12.0\\microsoft.net.test.sdk.17.12.0.nupkg.sha512",
     "C:\\Users\\freim\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.12.0\\microsoft.testplatform.objectmodel.17.12.0.nupkg.sha512",
